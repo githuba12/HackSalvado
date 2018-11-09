@@ -1,0 +1,81 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#logo{
+    width: 200px;
+
+}
+#menu{
+    display: flex;
+    align-items: center;
+    margin: 0px;
+    border: 3px solid black;
+    
+
+    }
+#Lista{
+    width: 1200px;
+    display: flex;
+    justify-content: space-between;
+    list-style: circle disc;
+    font-size: 20pt; 
+    
+}
+
+#facebook{
+    width: 30px;
+
+}
+#instagram{
+    width: 30px;
+    
+}
+#Gmail{
+    width: 38px;
+    
+}#link{
+       display: flex;
+    justify-content: flex-end;
+   }
+#link a{
+    margin-left: 5px;
+    margin-top: 5px;
+} 
+#animal img{
+    width: 100%;
+    display: flex;
+}
+
+#box{
+    background-color: black;
+    color: white;
+    height: 220px;
+    position: relative;
+    
+}
+#pesquisa{
+    display: flex;
+    justify-content: flex-end;
+}
+#box{
+    display: flex;
+    justify-content: space-around;
+    margin: 20;
+
+}
+
+#b1{
+    width: 80%;
+    height: 500px;
+    border: 3px solid black;
+    background-color: white;
+    color: black;
+    font-size: 15pt; 
+}
+#b2{
+    width: 80%;
+    height: 500px;
+    border: 3px solid black;
+    font-size: 15pt; 
+}
